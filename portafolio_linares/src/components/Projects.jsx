@@ -4,8 +4,14 @@ const proyectos = [
   {
     titulo: "Portafolio Web",
     descripcion: "Mi portafolio personal hecho con React y Bootstrap.",
-    link: "https://tusitio.com",
-    repo: "https://github.com/tuusuario/portafolio"
+    link: "https://github.com/Kinabix",
+    repo: "https://github.com/Kinabix/portafolio.git"
+  },
+  {
+    titulo: "Desing Lab",
+    descripcion: "Mi proyecto de diseño y prototipado hecho en PHP, MySQL y Bootstrap.",
+    link: "https://github.com/Kinabix",
+    repo: "https://github.com/Kinabix/proyectos.git"
   },
   // Agrega más proyectos aquí
 ];
